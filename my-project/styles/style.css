@@ -1,0 +1,17 @@
+/* styles/custom.css */
+.sidebar {
+  width: 280px;
+  max-width: 280px;
+  overflow-y: auto;
+}
+
+.category-options {
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.truncate {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
